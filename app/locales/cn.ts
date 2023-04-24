@@ -180,3 +180,4 @@ const cn = {
 export type LocaleType = typeof cn;
 
 export default cn;
+
